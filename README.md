@@ -1,4 +1,4 @@
-# reading_list
+# Reading List
 
 ## Visual Odometry
 [Real Time Localization and 3D Reconstruction, E. Mouragnon, et. al.](https://ieeexplore.ieee.org/document/1640781)
