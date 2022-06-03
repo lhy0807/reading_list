@@ -8,6 +8,8 @@
 
 [ORB-SLAM: a Versatile and Accurate Monocular SLAM System, Raul Mur-Artal, et. al.](https://arxiv.org/pdf/1502.00956.pdf) T-RO Vol.31 No. 5, October 2015
 
+[Visual SLAM and Structure from Motion in Dynamic Environments: A Survey](https://dl.acm.org/doi/abs/10.1145/3177853?casa_token=3OREdW945wcAAAAA:519kF8wQPDYTl7jQ2H297p84pd1aD_drPB-trMpH0c0cHWMGiCp9PpwLIfW99rf0jpclWRhDKiT4) ACM Computing Surveys 2018
+
 ## 3D Reconstruction
 [Learning a Multi-View Stereo Machine](https://proceedings.neurips.cc/paper/2017/file/9c838d2e45b2ad1094d42f4ef36764f6-Paper.pdf) NIPS 2017
 
