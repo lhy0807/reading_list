@@ -5,7 +5,8 @@
 
 ## Visual SLAM
 [MonoSLAM: Real-Time Single Camera SLAM](https://ieeexplore.ieee.org/document/4160954) TPAMI Vol.29 Issue:6, June 2007
-[ORB-SLAM: a Versatile and Accurate Monocular SLAM System, Raul Mur-Artal, et. al.](https://arxiv.org/pdf/1502.00956.pdf)
+
+[ORB-SLAM: a Versatile and Accurate Monocular SLAM System, Raul Mur-Artal, et. al.](https://arxiv.org/pdf/1502.00956.pdf) T-RO Vol.31 No. 5, October 2015
 
 ## 3D Reconstruction
 [Learning a Multi-View Stereo Machine](https://proceedings.neurips.cc/paper/2017/file/9c838d2e45b2ad1094d42f4ef36764f6-Paper.pdf) NIPS 2017
