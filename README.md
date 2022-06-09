@@ -22,7 +22,11 @@
 
 ## NeRF
 [BARF: Bundle-Adjusting Neural Radiance Fields](https://chenhsuanlin.bitbucket.io/bundle-adjusting-NeRF/paper.pdf) ICCV 2021
+
 [CityNeRF: Building NeRF at City Scale](https://arxiv.org/abs/2112.05504) arvix 
+
 [EfficientNeRF– Efficient Neural Radiance Fields](https://arxiv.org/abs/2206.00878) CVPR 2022
+
 [PlenOctrees: For Real-time Rendering of Neural Radiance Fields](https://alexyu.net/plenoctrees/) ICCV 2021 Oral
+
 [Plenoxels: Radiance Fields without Neural Networks](https://alexyu.net/plenoxels/) CVPR 2022 Oral
