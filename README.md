@@ -32,3 +32,5 @@
 [Plenoxels: Radiance Fields without Neural Networks](https://alexyu.net/plenoxels/) CVPR 2022 Oral
 
 [NeRFusion: Fusing Radiance Fields for Large-Scale Scene Reconstruction](https://arxiv.org/abs/2203.11283) CVPR 2022
+
+[NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections](https://nerf-w.github.io/) CVPR 2021 Oral
