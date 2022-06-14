@@ -34,3 +34,9 @@
 [NeRFusion: Fusing Radiance Fields for Large-Scale Scene Reconstruction](https://arxiv.org/abs/2203.11283) CVPR 2022
 
 [NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections](https://nerf-w.github.io/) CVPR 2021 Oral
+
+[Stereo Radiance Fields (SRF):Learning View Synthesis for Sparse Views of Novel Scenes](https://virtualhumans.mpi-inf.mpg.de/srf/) CVPR 2021
+
+[Depth-supervised NeRF: Fewer Views and Faster Training for Free](https://openaccess.thecvf.com/content/CVPR2022/papers/Deng_Depth-Supervised_NeRF_Fewer_Views_and_Faster_Training_for_Free_CVPR_2022_paper.pdf) CVPR 2022
+
+[GeoNeRF: Generalizing NeRF with Geometry Priors](https://openaccess.thecvf.com/content/CVPR2022/papers/Johari_GeoNeRF_Generalizing_NeRF_With_Geometry_Priors_CVPR_2022_paper.pdf)  CVPR 2022
