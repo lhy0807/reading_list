@@ -17,6 +17,8 @@
 
 [An End-to-end 3D Neural Network for Multiview Stereopsis](https://arxiv.org/pdf/1708.01749.pdf) ICCV 2017
 
+[Octree Generating Networks: Efficient Convolutional Architectures for High-resolution 3D Outputs](https://openaccess.thecvf.com/content_ICCV_2017/papers/Tatarchenko_Octree_Generating_Networks_ICCV_2017_paper.pdf) ICCV 2017
+
 ## Deep Learning in SLAM
 [LCDNet: Deep Loop Closure Detection and Point Cloud Registration for LiDAR SLAM](https://arxiv.org/abs/2103.05056) T-RO 03/2022
 
