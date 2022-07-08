@@ -12,6 +12,11 @@
 
 [DiffPoseNet: Direct Differentiable Camera Pose Estimation](https://prg.cs.umd.edu/DiffPoseNet) CVPR 2022
 
+## Sparse Convolution
+[Spatially-sparse convolutional neural networks](https://arxiv.org/pdf/1409.6070.pdf) Graham 2014 (2D)
+[Sparse 3D convolutional neural networks](https://arxiv.org/pdf/1505.02890.pdf) Graham 2015 (3D)
+[Submanifold Sparse Convolutional Networks](https://arxiv.org/pdf/1706.01307.pdf) Graham 2017
+
 ## 3D Reconstruction
 [Learning a Multi-View Stereo Machine](https://proceedings.neurips.cc/paper/2017/file/9c838d2e45b2ad1094d42f4ef36764f6-Paper.pdf) NIPS 2017
 
